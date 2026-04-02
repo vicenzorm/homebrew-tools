@@ -2,7 +2,7 @@ class Coge < Formula
   include Language::Python::Virtualenv
 
   desc "Local AI-powered git commits for the minimalist developer"
-  homepage "https://github.com/vicenzomasera/coge"
+  homepage "https://github.com/vicenzorm/coge"
   url "https://github.com/vicenzorm/Coge/archive/refs/tags/v0.1.0.tar.gz"
   sha256 "2b2dd2eb0ced254eb792aa34d38d6dac0191ae04afa1c718096f7f2df5d622bf"
   license "MIT"
