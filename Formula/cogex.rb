@@ -1,4 +1,4 @@
-class CogeX < Formula
+class Cogex < Formula
   desc "Local AI-powered git commits for the minimalist developer"
   homepage "https://github.com/vicenzorm/CogeX"
   url "ttps://github.com/vicenzorm/CogeX/archive/refs/tags/v0.2.1.tar.gz"
