@@ -1,8 +1,8 @@
 class Cogex < Formula
   desc "Local AI-powered git commits for the minimalist developer"
   homepage "https://github.com/vicenzorm/CogeX"
-  url "https://github.com/vicenzorm/CogeX/archive/refs/tags/v.0.3.1.tar.gz"
-  sha256 "91ce40a3a15bdd3fc2f2c83da2e6de4a753e5b67af921382e6a80c5494218a60"
+  url "https://github.com/vicenzorm/CogeX/archive/refs/tags/v0.4.0.tar.gz"
+  sha256 "63b98ab878fa7dda3853ad3ad1dcc5677808db634d000f7faac72c179340d46f"
   license "MIT"
 
   depends_on "jq"
